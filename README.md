@@ -9,6 +9,7 @@
 ```solidity
 pragma solidity ^0.5.2;
 
+
 contract MerkleProof {
   function verify(
     bytes32 root,
